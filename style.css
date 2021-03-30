@@ -1,0 +1,27 @@
+@media (min-width: 576px) {
+    .anchor-move {
+        margin-top: -178px;
+        padding-top: 178px;
+    }
+}
+
+@media (min-width: 768px) {
+    .anchor-move {
+        margin-top: -120px;
+        padding-top: 120px;
+    }
+}
+
+@media (min-width: 992px) {
+    .anchor-move {
+        margin-top: -60px;
+        padding-top: 60px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .anchor-move {
+        margin-top: -60px;
+        padding-top: 60px;
+    }
+}
